@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu</h1>
-<h3 align="center">I am Infra Automation Architect for OnPrem and Cloud Technologies. Expertise Knowledge in Vmware ,Windows,AWS Cloud,Powershell,Pyhton</h3>
+<h3 align="center">I am Infra Automation Architect for OnPrem and Cloud Technologies. Expertise Knowledge in Vmware ,Windows,AWS Cloud,Powershell,Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanup6&label=Profile%20views&color=0e75b6&style=flat" alt="bhanup6" /> </p>
 
